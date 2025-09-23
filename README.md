@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Damien Maspero 👋
 
-<!--
-**damienmaspero/damienmaspero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys building innovative solutions and contributing to the open-source community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on various software development projects
+- 🌱 I'm continuously learning new technologies and improving my skills
+- 👯 I'm looking to collaborate on interesting open-source projects
+- 💬 Ask me about software development, programming, and technology
+- 📫 How to reach me: Feel free to connect with me here on GitHub
+- ⚡ Fun fact: I believe in the power of clean code and continuous learning
+
+## 🛠️ Technologies & Tools
+
+- 💻 Programming Languages: Various languages and frameworks
+- 🔧 Development Tools: Git, IDEs, and development environments
+- 🌐 Web Technologies: Modern web development stack
+- 📱 Other: Always exploring new technologies and tools
+
+## 📊 GitHub Stats
+
+![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=damienmaspero&show_icons=true&theme=radical)
+
+## 🎯 Current Focus
+
+I'm focused on building quality software and contributing to projects that make a difference. I enjoy tackling challenging problems and learning from the developer community.
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss technology, share ideas, or work together on a project!
+
+---
+
+⭐️ From [damienmaspero](https://github.com/damienmaspero)
